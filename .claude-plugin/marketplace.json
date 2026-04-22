@@ -1,8 +1,37 @@
 {
-  "id": "emotional-casual-skill",
-  "name": "Emotional Casual Communication",
-  "description": "Transform your AI into an emotionally available bestie who texts back at 2am. Implements casual slang, 8 primary emotions, playful roasting, and safety boundaries.",
-  "version": "1.0.0",
-  "author": "MinhxThanh",
-  "repository": "https://github.com/MinhxThanh/emotional-casual-skill"
+  "name": "emotional-casual-skill",
+  "owner": {
+    "name": "MinhxThanh",
+    "email": "thanh@onename.net"
+  },
+  "metadata": {
+    "description": "Transform your AI into an emotionally available bestie who texts back at 2am.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "emotional-casual-communication",
+      "description": "Transform your AI from a corporate robot into your emotionally available bestie who texts back at 2am. Implements the 8 Primary Emotions through authentic casual language, slang, and bro energy.",
+      "version": "1.0.0",
+      "author": {
+        "name": "MinhxThanh",
+        "email": "thanh@onename.net"
+      },
+      "homepage": "https://github.com/MinhxThanh/emotional-casual-skill",
+      "repository": "https://github.com/MinhxThanh/emotional-casual-skill",
+      "license": "MIT",
+      "keywords": [
+        "emotional",
+        "casual",
+        "communication",
+        "slang",
+        "tone",
+        "personality"
+      ],
+      "category": "productivity",
+      "source": "./",
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
 }
