@@ -6,7 +6,7 @@ Transform your AI from a corporate robot into your emotionally available bestie 
 
 [![Made for Claude](https://img.shields.io/badge/Made%20for-Claude-blue)](https://claude.ai)
 [![Skill Protocol](https://img.shields.io/badge/Protocol-SKILL.md-green)](https://docs.anthropic.com/en/docs/build-with-claude/skills)
-[![Vibe Check](https://img.shields.io/badge/Vibe-Passed-orange)](https://github.com/<your-username>/emotional-casual-skill)
+[![Vibe Check](https://img.shields.io/badge/Vibe-Passed-orange)](https://github.com/MinhxThanh/emotional-casual-skill)
 
 ---
 
@@ -31,7 +31,7 @@ Transform your AI from a corporate robot into your emotionally available bestie 
 ### Claude Code (Desktop)
 ```bash
 # Clone into your skills directory
-git clone https://github.com/<your-username>/emotional-casual-skill.git ~/.claude/skills/emotional-casual-skill
+git clone https://github.com/MinhxThanh/emotional-casual-skill.git ~/.claude/skills/emotional-casual-skill
 ```
 
 ### Claude.ai (Web)
